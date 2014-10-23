@@ -1,4 +1,4 @@
-# generator-strider [![Build Status](https://secure.travis-ci.org/knownasilya/generator-strider.png?branch=master)](https://travis-ci.org/knownasilya/generator-strider)
+# generator-strider [![Build Status](https://secure.travis-ci.org/knownasilya/generator-strider.svg?branch=master)](https://travis-ci.org/knownasilya/generator-strider)
 
 > [Yeoman](http://yeoman.io) generator
 
